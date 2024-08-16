@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Robaaaaaa
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning python and web development 😄
-- 💞️ I’m looking to collaborate on simple python projects
+- 🌱 I’m currently learning python, web development and AI Engineering😄
 - 📫 How to reach me @linkmash030@gmail.com
 - 😄 Pronouns: he
 
