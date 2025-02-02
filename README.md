@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Robaaaaaa
-- 👀 I’m interested in game development
+
+- I’m interested in game development
 - 🌱 I’m currently learning python, web development and AI Engineering😄
-- 📫 How to reach me @linkmash030@gmail.com
-- 😄 Pronouns: he
+- How to reach me @linkmash030@gmail.com
+-  Pronouns: he
 
 
 <!---
